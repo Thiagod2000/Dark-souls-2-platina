@@ -11,7 +11,7 @@
 
 ## Lista de Feitiços
 
-- [ ] **Flecha de Almas** - Melentia, Carhillion do Aprisco, Magerold de Lanafir
+- [ x] **Flecha de Almas** - Melentia, Carhillion do Aprisco, Magerold de Lanafir
 - [ ] **Flecha de Almas Grande** - Carhillion do Aprisco, Magerold de Lanafir, Floresta dos Gigantes Caídos
 - [ ] **Flecha de Almas Pesada** - Carhillion do Aprisco, Magerold de Lanafir
 - [ ] **Flecha de Almas Pesada Grande** - Carhillion do Aprisco, Magerold de Lanafir, Pico Terroso Central
