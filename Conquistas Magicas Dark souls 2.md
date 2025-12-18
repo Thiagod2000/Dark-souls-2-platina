@@ -34,7 +34,7 @@
 - [ x] **Anseio** - Carhillion do Aprisco
 - [ x] **Silêncio** - Caminho do  Azul Rank 2 recompesa, Bastilha Perdida(Muro ilusório da Sala do Chefe Sentinela da Ruína)
 - [ x] **Controle de Queda** - Armeira Ornifex, Magerold de Lanafir
-- [ ] **Arma Oculta** - Pacto dos Guardiões do Sino Rank 2 recompensa
+- [ x] **Arma Oculta** - Pacto dos Guardiões do Sino Rank 2 recompensa
 - [ x] **Reparar** - Santuário do Inverno
 - [ x] **Conjurar Luz** - Darkdiver Grandahl, Straid de Olaphis
 - [ x] **Camaleão** - Vale da Colheita
