@@ -39,8 +39,8 @@
 - [ x] **Conjurar Luz** - Darkdiver Grandahl, Straid de Olaphis
 - [ x] **Camaleão** - Vale da Colheita
 - [ x] **Liberar Magia** - Feitiçeiro Real Navlaan
-- [ ] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
-- [ ] **Foco de Almas** -  DLC Coroa do Rei Afundado
+- [ x] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
+- [ x] **Foco de Almas** -  DLC Coroa do Rei Afundado
 - [ ] **Lança de Almas de Cristal** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Milagres
