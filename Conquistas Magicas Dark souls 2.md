@@ -58,7 +58,7 @@
 - [ x] **Trovão Celestial** - Sentinela Azul Targray e Cromwell, o Perdoador
 - [x ] **Lança de Raio** - Licia de Lindeldt e em Pico Terroso
 - [ x] **Lança de Raio Grande** - Straid de Olaphis após a obtenção do Anel do Rei, O Poço e na Cripta dos Mortos-Vivos.
-- [ ] **Lança de Luz Solar** - Pacto Herdeiros do Sol Rank 3 recompensa
+- [ x] **Lança de Luz Solar** - Pacto Herdeiros do Sol Rank 3 recompensa
 - [ x] **Apaziguar a Alma** - Comerciante de pedras Chloanne e Guardião do túmulo Agdayne
 - [ x] **Barreira Mágica** - Chefe de Vengarl e Felkin, o Pária.
 - [ x] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
