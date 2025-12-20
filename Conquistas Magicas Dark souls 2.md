@@ -90,7 +90,7 @@
 - [ x] **Chama Contínua** - Straid de Olaphis, Carcereiro morto-vivo
 - [ x] **Envolver em Chamas** - Straid de Olaphis, Guardiões do Sino
 - [ ] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Protesto** - Straid de Olaphis (REQUER ALMA DE NADALIA)
+- [ x] **Protesto** - Straid de Olaphis (REQUER ALMA DE NADALIA)
 - [ x] **Calor** - Agdayne
 - [x ] **Bola de Fogo Grande** - Lagarto de Chamas, Brightstone Cove Tseldora
 - [ x] **Tempestade de Fogo** - Santuário de Amana,Dragões Guardiões
