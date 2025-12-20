@@ -41,7 +41,7 @@
 - [ x] **Liberar Magia** - Feitiçeiro Real Navlaan
 - [ x] **Lampejo de Almas** -  DLC Coroa do Rei Afundado
 - [ x] **Foco de Almas** -  DLC Coroa do Rei Afundado
-- [ ] **Lança de Almas de Cristal** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [ x] **Lança de Almas de Cristal** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Milagres
 
@@ -98,7 +98,7 @@
 - [ x] **Imolação** - Campanário do Sol
 - [ x] **Sol Proibido** - Feiticeiro Real Navlaan
 - [ ] **Grande Bola de Fogo do Caos** - Irmandade de Sangue Rank 3 Recompensa, Chanceler Wellager(NG++)
-- [ ] **Serpente de Fogo** - DLC Coroa do Rei Afundado
+- [x ] **Serpente de Fogo** - DLC Coroa do Rei Afundado
 - [ x] **Dança de Fogo** - DLC Coroa do Rei Afundado
 
 ## Lista de Sortilégios
@@ -121,7 +121,7 @@
 - [x ] **Clímax** - Pilgrims of Dark Rank 3 Recompensa
 - [ x] **Carne Ressoante** - Felkin, o Pária
 - [ x] **Arma Ressoante** - Felkin, o Pária
-- [ ] **Mancha de Absorção Vital** - Straid de Olaphis
+- [x ] **Mancha de Absorção Vital** - Straid de Olaphis
 - [x ] **Quietude Profunda** - Darkdiver Grandahl
 - [ x] **Caminhar da Paz Prometido** - DLC Coroa do Rei Afundado
 - [ x] **Dança Negra** - DLC Coroa do Rei de Marfim
