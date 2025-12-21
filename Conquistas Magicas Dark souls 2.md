@@ -89,7 +89,7 @@
 - [ ] **Onda Ácida** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ x] **Chama Contínua** - Straid de Olaphis, Carcereiro morto-vivo
 - [ x] **Envolver em Chamas** - Straid de Olaphis, Guardiões do Sino
-- [ ] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [ x] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ x] **Protesto** - Straid de Olaphis (REQUER ALMA DE NADALIA)
 - [ x] **Calor** - Agdayne
 - [x ] **Bola de Fogo Grande** - Lagarto de Chamas, Brightstone Cove Tseldora
