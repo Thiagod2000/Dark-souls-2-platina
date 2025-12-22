@@ -125,6 +125,6 @@
 - [x ] **Quietude Profunda** - Darkdiver Grandahl
 - [ x] **Caminhar da Paz Prometido** - DLC Coroa do Rei Afundado
 - [ x] **Dança Negra** - DLC Coroa do Rei de Marfim
-- [ ] **Torpor** - Straid de Olaphis (REQUER ALMA DE NADALIA)
+- [ x] **Torpor** - Straid de Olaphis (REQUER ALMA DE NADALIA)
 
 
