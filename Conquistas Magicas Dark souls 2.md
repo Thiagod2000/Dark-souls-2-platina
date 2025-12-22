@@ -86,7 +86,7 @@
 - [ x] **Combustão Grande** - Titchy Gren, Castelo Drangleic
 - [ x] **Chicote de Fogo** - Titchy Gren, Guardiões do Sino
 - [ x] **Névoa Tóxica** - Straid de Olaphis (REQUER ALMA DE BOSS)
-- [ ] **Onda Ácida** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [x ] **Onda Ácida** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ x] **Chama Contínua** - Straid de Olaphis, Carcereiro morto-vivo
 - [ x] **Envolver em Chamas** - Straid de Olaphis, Guardiões do Sino
 - [ x] **Arma de Fogo** - Straid de Olaphis (REQUER ALMA DE BOSS)
