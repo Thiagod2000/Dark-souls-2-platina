@@ -22,7 +22,7 @@
 - [ x] **Lança de Almas** - Guardião da Sepultura Agdayne, Souto do Caçador.
 - [ x] **Onda de Choque** - Carhillion do Aprisco
 - [ x] **Barragem de Lanças de Almas** - Carhillion do Aprisco
-- [ ] **Chuva de Almas** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [ x] **Chuva de Almas** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ x] **Espada Grande de Almas** - Castelo de Drangleic
 - [ x] **Vórtice de Almas** - Guardião da Sepultura Agdayne, O Fosso, Caverna da Pedra Luzente de Tseldora
 - [ x] **Raio de Almas** - Castelo de Drangleic
@@ -85,7 +85,7 @@
 - [ x] **Tormenta de Fogo** - Titchy Gren, Besouros de chifre venenosos, Castelo Drangleic
 - [ x] **Combustão Grande** - Titchy Gren, Castelo Drangleic
 - [ x] **Chicote de Fogo** - Titchy Gren, Guardiões do Sino
-- [ ] **Névoa Tóxica** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [ x] **Névoa Tóxica** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ ] **Onda Ácida** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ x] **Chama Contínua** - Straid de Olaphis, Carcereiro morto-vivo
 - [ x] **Envolver em Chamas** - Straid de Olaphis, Guardiões do Sino
