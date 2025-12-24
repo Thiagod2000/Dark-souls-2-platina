@@ -64,7 +64,7 @@
 - [ x] **Barreira Mágica Grande** - Chanceler Wellager e Castelo Drangleic.
 - [x ] **Regresso** - Licia de Lindeldt 
 - [ x] **Orientação** - Licia de Lindeldt 
-- [ ] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [ x] **Juramento Sagrado** - Straid de Olaphis (REQUER ALMA DE BOSS)
 - [ x] **Revelar** - Straid de Olaphis
 - [x ] **Perseverança** - Cromwell, o Perdoador
 - [ x] **Lâmina de Luz Solar** - Straid de Olaphis após a obtenção do Anel do Rei,Santuário de Amana.
