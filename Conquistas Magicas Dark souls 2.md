@@ -72,7 +72,7 @@
 - [x ] **Lança Fragmentável de Raio** - DLC Coroa do Rei do Marfim
 - [ ] **Ira dos Deuses** - Adquirido de Sentinelas Azuis Rank 2 Recompensa, Chanceler Wellager no NG++ por 8.200 almas.
 - [ ] **Luz Solar Abundante** - Adquirido de Sentinelas Azuis Rank 3 Recompensa, Chanceler Wellager no NG++ por 11.000 almas.
-- [ ] **Raio Cegante** - Straid de Olaphis (REQUER ALMA DE BOSS)
+- [ x] **Raio Cegante** - Straid de Olaphis (REQUER ALMA DE BOSS)
 
 ## Lista de Piromancia
 
